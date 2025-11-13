@@ -4,3 +4,4 @@ services:
     env: docker
     region: oregon
     plan: free
+    dockerCommand: null
